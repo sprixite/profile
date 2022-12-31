@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Saad Ashraf
+I am a Python developer. I have over 1.6 years of experience in writing software. I am passionate about solving performance-related problems. I mainly specialize in Python/Django with PostgreSQL DB. For APIs, I use Django Rest Framework.
 ### WEB/API Framework
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/></a>
